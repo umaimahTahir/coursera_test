@@ -11,7 +11,7 @@ h1 {
 }
 
 .section {
-  background-color: #4c0000;
+  background-color: #FDEBD0;
   border: 1px solid black;
   margin: 20px;
  }
@@ -26,8 +26,9 @@ h1 {
   float: right;
 }
 
-.title2 {
-  background-color: #008B8B;
+
+.title2{
+  background-color: #1E8449;
   font-family: "verdana", "arial", sans-serif;
   color: #ffffff;
   padding: 5px 20px 5px 20px;
@@ -36,8 +37,10 @@ h1 {
   float: right;
 }
 
+
+
 .title3 {
-  background-color: #380474;
+  background-color: #1F618D;
   font-family: "verdana", "arial", sans-serif;
   color: #ffffff;
   padding: 5px 20px 5px 20px;
@@ -45,6 +48,8 @@ h1 {
   border: 1px solid black;
   float: right;
 }
+
+
 
 .row {
 	width: 100%;
@@ -53,19 +58,19 @@ h1 {
 .p1 {
    padding: 40px 10px 10px 10px;
    font-family: "verdana", "arial", sans-serif;
-   color: #ffffff;
+   color: #17202A;
 }
 
 .p2 {
    padding: 40px 10px 10px 10px;
    font-family: "verdana", "arial", sans-serif;
-   color: #ffffff;
+   color: #17202A;
 }
 
 .p3 {
    padding: 40px 10px 10px 10px;
    font-family: "verdana", "arial", sans-serif;
-   color: #ffffff;
+   color: #17202A;
 }
 
 
